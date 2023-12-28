@@ -1,0 +1,1 @@
+Using custom-developed neural network code, we are classifying data points by employing activation functions such as sigmoid and tanh. Additionally, we fine-tune the size of the hidden layers to optimize performance.
